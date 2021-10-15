@@ -1,1 +1,1 @@
-Python/Django|Java Developer
+Python/Django | Java Developer
