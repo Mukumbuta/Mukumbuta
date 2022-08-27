@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Simasiku</h1>
-<h3 align="center">An enthusiastic Software Developer from Zambia</h3>
+<h3 align="center">An enthusiastic Software Developer from Lusaka, Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukumbuta&label=Profile%20views&color=0e75b6&style=flat" alt="mukumbuta" /> </p>
 
