@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mukumbuta.github.io/My-Portfolio-Website/](https://mukumbuta.github.io/My-Portfolio-Website/)
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/mukumbuta/)
 
 - 💬 Ask me about **Python, JavaScript, Django REST framework**
 
