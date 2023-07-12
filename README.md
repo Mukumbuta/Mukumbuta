@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukumbuta&label=Profile%20views&color=0e75b6&style=flat" alt="mukumbuta" /> </p>
 
-- 🌱 I’m currently studying [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+- 🌱 Currently studying:
+- [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 - 👨‍💻 All of my projects are available at [https://mukumbuta.github.io/My-Portfolio-Website/](https://mukumbuta.github.io/My-Portfolio-Website/)
 
