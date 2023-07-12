@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukumbuta&label=Profile%20views&color=0e75b6&style=flat" alt="mukumbuta" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Software Development**
+- 🌱 I’m currently studying [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 - 👨‍💻 All of my projects are available at [https://mukumbuta.github.io/My-Portfolio-Website/](https://mukumbuta.github.io/My-Portfolio-Website/)
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/mukumbuta/)
 
 - 💬 Ask me about **Python, JavaScript, Django REST framework**
-- [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 - 📫 How to reach me **muku92@live.com**
 
