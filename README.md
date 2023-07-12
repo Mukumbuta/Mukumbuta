@@ -10,6 +10,7 @@
 - 📝 I regularly write articles on [Dev.to](https://dev.to/mukumbuta/)
 
 - 💬 Ask me about **Python, JavaScript, Django REST framework**
+- [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 - 📫 How to reach me **muku92@live.com**
 
