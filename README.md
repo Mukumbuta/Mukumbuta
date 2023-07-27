@@ -5,6 +5,7 @@
 
 - 🌱 Currently studying:
 - [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+- [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 - 👨‍💻 All of my projects are available at [https://mukumbuta.github.io/My-Portfolio-Website/](https://mukumbuta.github.io/My-Portfolio-Website/)
 
