@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/mukumbuta/)
 
-- 💬 Ask me about **Backend Engineering, Linux, Systems Engineering **
+- 💬 Ask me about **Backend Engineering** | **Linux** | **Systems Engineering**
 
 - 📫 How to reach me: **emmanuel.simasiku@outlook.com**
 
